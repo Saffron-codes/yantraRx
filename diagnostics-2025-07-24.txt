@@ -1,0 +1,9 @@
+Laptop Diagnostics Report - Thursday 24 July 2025 10:47:58 PM IST
+===============================
+OS: Linux fedora 6.15.6-200.fc42.x86_64 #1 SMP PREEMPT_DYNAMIC Thu Jul 10 15:22:32 UTC 2025 x86_64 GNU/Linux
+CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+RAM: 15Gi
+Disk: 324G used / 476G
+Battery: 62%
+Public IP: 49.206.8.174
+Uptime: up 47 minutes
