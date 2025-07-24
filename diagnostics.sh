@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 📊 Laptop Diagnostics Tool
-# Author: YourName
+# Author: Saffron Dionysius
 # License: MIT
 
 set -e
