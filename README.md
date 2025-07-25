@@ -7,7 +7,7 @@ Iam planning to include AI summary & suggestions for the current status and setu
 ## 🔧 How to Use
 
 ```bash
-git clone https://github.com/yourusername/laptop-diagnostics.git
-cd laptop-diagnostics
+git clone https://github.com/saffron-codes/yantraRx.git
+cd yantraRx
 chmod +x diagnostics.sh
-./diagnostics.sh
+./diagnostics.s
